@@ -31,7 +31,7 @@ printf ${CYAN_LIGHT}"   \ \ / /     |  _| _   | |\  /| |     |  _|   / ___ \    
 printf ${CYAN_LIGHT}"    \ ' /     _| |__/ | _| |_\/_| |_   _| |_  _/ /   \ \_  _/ /__/ | _| |__/ | _| |  \ \_\n";
 printf ${CYAN_LIGHT}"     \_/     |________||_____||_____| |_____||____| |____||________||________||____| |___|\n";
                                                                                                                                                          
-  printf "            \033[1;33m        © CANAL VEM FAZER - https://www.youtube.com/channel/UCwFO9ylM7gHxYIXfJqAo1vQ\n";
+  printf "            \033[1;33m        © WztiChat - https://www.youtube.com/channel/UCwFO9ylM7gHxYIXfJqAo1vQ\n";
   printf "${NC}";
 
   printf "\n"
